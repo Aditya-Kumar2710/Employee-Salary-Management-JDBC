@@ -17,44 +17,47 @@
 13. **Execution:** Configure database credentials, create the table using `database.sql`, place Connector/J in `lib`, and run `run.bat`.
 
 ## Output Obtained
-Employee records added successfully:
-767 - Aditya
-768 - Harshil
-764 - Prakahr
-805 - Ayman
 
-Employees with Gross Salary Above 50000:
+Employee records added successfully:<br>
+767 - Aditya<br>
+768 - Harshil<br>
+764 - Prakahr<br>
+805 - Ayman<br>
 
-Employee ID: 764
-Name: Prakahr
-Basic Salary: 300000.0
-Allowances: 20000.0
-Gross Salary: 320000.0
-Deductions: 30000.0
-Net Salary: 290000.0
+**Employees with Gross Salary Above 50000**<br><br>
 
-Employee ID: 767
-Name: Aditya
-Basic Salary: 500000.0
-Allowances: 60000.0
-Gross Salary: 560000.0
-Deductions: 50000.0
-Net Salary: 510000.0
+Employee ID: 764<br>
+Name: Prakahr<br>
+Basic Salary: 300000.0<br>
+Allowances: 20000.0<br>
+Gross Salary: 320000.0<br>
+Deductions: 30000.0<br>
+Net Salary: 290000.0<br><br>
 
-Employee ID: 768
-Name: Harshil
-Basic Salary: 700000.0
-Allowances: 80000.0
-Gross Salary: 780000.0
-Deductions: 70000.0
-Net Salary: 710000.0
+Employee ID: 767<br>
+Name: Aditya<br>
+Basic Salary: 500000.0<br>
+Allowances: 60000.0<br>
+Gross Salary: 560000.0<br>
+Deductions: 50000.0<br>
+Net Salary: 510000.0<br><br>
 
-Employee ID: 805
-Name: Ayman
-Basic Salary: 200000.0
-Allowances: 60000.0
-Gross Salary: 260000.0
-Deductions: 20000.0
-Net Salary: 240000.0
+Employee ID: 768<br>
+Name: Harshil<br>
+Basic Salary: 700000.0<br>
+Allowances: 80000.0<br>
+Gross Salary: 780000.0<br>
+Deductions: 70000.0<br>
+Net Salary: 710000.0<br><br>
+
+Employee ID: 805<br>
+Name: Ayman<br>
+Basic Salary: 200000.0<br>
+Allowances: 60000.0<br>
+Gross Salary: 260000.0<br>
+Deductions: 20000.0<br>
+Net Salary: 240000.0<br><br>
+
+
 
 Salary updated successfully.

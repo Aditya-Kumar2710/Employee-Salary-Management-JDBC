@@ -7,7 +7,7 @@ public class EmployeeSalary {
     static final String URL =
         "jdbc:mysql://localhost:3306/employee_db";
     static final String USER = "root";
-    static final String PASSWORD = "admin123";
+    static final String PASSWORD = "APP";
 
     public static void main(String[] args) {
 
